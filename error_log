@@ -1,0 +1,30 @@
+[16-Oct-2024 00:01:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'grupor27_rootxdb'@'localhost' to database 'grupor27_agendamento_exames' in /home1/grupor27/public_html/public/agendamentov1/db.php:9
+Stack trace:
+#0 /home1/grupor27/public_html/public/agendamentov1/db.php(9): mysqli->__construct('localhost', 'grupor27_rootxd...', 'rootxdb215!@', 'grupor27_agenda...')
+#1 /home1/grupor27/public_html/public/agendamentov1/login_process.php(2): include('/home1/grupor27...')
+#2 {main}
+  thrown in /home1/grupor27/public_html/public/agendamentov1/db.php on line 9
+[16-Oct-2024 00:01:29 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'grupor27_rootxdb'@'localhost' to database 'grupor27_agendamento_exames' in /home1/grupor27/public_html/public/agendamentov1/db.php:9
+Stack trace:
+#0 /home1/grupor27/public_html/public/agendamentov1/db.php(9): mysqli->__construct('localhost', 'grupor27_rootxd...', 'rootxdb215!@', 'grupor27_agenda...')
+#1 /home1/grupor27/public_html/public/agendamentov1/login_process.php(2): include('/home1/grupor27...')
+#2 {main}
+  thrown in /home1/grupor27/public_html/public/agendamentov1/db.php on line 9
+[16-Oct-2024 00:01:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'grupor27_rootxdb'@'localhost' to database 'grupor27_agendamento_exames' in /home1/grupor27/public_html/public/agendamentov1/db.php:9
+Stack trace:
+#0 /home1/grupor27/public_html/public/agendamentov1/db.php(9): mysqli->__construct('localhost', 'grupor27_rootxd...', 'rootxdb215!@', 'grupor27_agenda...')
+#1 /home1/grupor27/public_html/public/agendamentov1/register_process.php(2): include('/home1/grupor27...')
+#2 {main}
+  thrown in /home1/grupor27/public_html/public/agendamentov1/db.php on line 9
+[16-Oct-2024 00:02:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'grupor27_rootxdb'@'localhost' to database 'grupor27_agendamento_exames' in /home1/grupor27/public_html/public/agendamentov1/db.php:9
+Stack trace:
+#0 /home1/grupor27/public_html/public/agendamentov1/db.php(9): mysqli->__construct('localhost', 'grupor27_rootxd...', 'rootxdb215!@', 'grupor27_agenda...')
+#1 /home1/grupor27/public_html/public/agendamentov1/login_process.php(2): include('/home1/grupor27...')
+#2 {main}
+  thrown in /home1/grupor27/public_html/public/agendamentov1/db.php on line 9
+[16-Oct-2024 00:04:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'grupor27_rootxdb'@'localhost' to database 'grupor27_agendamento_exames' in /home1/grupor27/public_html/public/agendamentov1/db.php:9
+Stack trace:
+#0 /home1/grupor27/public_html/public/agendamentov1/db.php(9): mysqli->__construct('localhost', 'grupor27_rootxd...', 'rootxdb215!@', 'grupor27_agenda...')
+#1 /home1/grupor27/public_html/public/agendamentov1/register_process.php(2): include('/home1/grupor27...')
+#2 {main}
+  thrown in /home1/grupor27/public_html/public/agendamentov1/db.php on line 9
